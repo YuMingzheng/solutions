@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "a51e3ea6d45fb196",
+    "type": "split",
+    "children": [
+      {
+        "id": "d101623a0ba4816a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53a3b9bceb0eca32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. 两数之和.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 两数之和"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e99e1f1d98badf9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7405aea6aaa3096b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e370d1b55a28958a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "113efc06c84e6b04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ae3a59143aeb14f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.51103591918945
+  },
+  "right": {
+    "id": "3add24aae16b097b",
+    "type": "split",
+    "children": [
+      {
+        "id": "63c3dc88c7958ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b586fd9803b1fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "98. 验证二叉搜索树.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "98. 验证二叉搜索树 的反向链接列表"
+            }
+          },
+          {
+            "id": "c8e90eb11b3856cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "98. 验证二叉搜索树.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "98. 验证二叉搜索树 的出链列表"
+            }
+          },
+          {
+            "id": "0a58c8f598f2045f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0f21e183bc37e483",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remove-duplicates-from-sorted-array-ii.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "remove-duplicates-from-sorted-array-ii 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "53a3b9bceb0eca32",
+  "lastOpenFiles": [
+    "994. 腐烂的橘子.md",
+    "200. 岛屿数量.md",
+    "135. 分发糖果.md",
+    "32. 最长有效括号.md",
+    "300. 最长递增子序列.md",
+    "53. 最大子数组和.md",
+    "39. 组合总和.md",
+    "1143. 最长公共子序列.md",
+    "102. 二叉树的层序遍历.md",
+    "160. 相交链表.md",
+    "142. 环形链表 II.md",
+    "27. 移除元素.md",
+    "1. 两数之和.md",
+    "98. 验证二叉搜索树.md",
+    "94. 二叉树的中序遍历.md",
+    "92. 反转链表 II.md",
+    "88. 合并两个有序数组.md",
+    "80. 删除有序数组中的重复项 II.md",
+    "78. 子集.md",
+    "77. 组合.md",
+    "76. 最小覆盖子串.md",
+    "75. 颜色分类.md",
+    "73. 矩阵置零.md",
+    "70. 爬楼梯.md",
+    "69. x 的平方根.md",
+    "63. 不同路径 II.md",
+    "assets/Pasted image 20250401112134.png",
+    "未命名.canvas",
+    "assets/24.jpg",
+    "assets/Pasted image 20250322201510.png",
+    "assets",
+    "Pasted image 20250322201316.png"
+  ]
+}

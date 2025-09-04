@@ -1,0 +1,7 @@
+{
+  "theme": "moonstone",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": false
+}
