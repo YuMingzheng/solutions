@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d101623a0ba4816a",
+        "id": "4dd82159875482c4",
         "type": "tabs",
         "children": [
           {
-            "id": "53a3b9bceb0eca32",
+            "id": "52c97da666d2fa41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "234. 回文链表.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "234. 回文链表"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "234. 回文链表.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "234. 回文链表 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -166,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53a3b9bceb0eca32",
+  "active": "e370d1b55a28958a",
   "lastOpenFiles": [
+    "39. 组合总和.md",
+    "2,2,3],[7.md",
+    "213. 打家劫舍 II.md",
+    "234. 回文链表.md",
     "新建 文本文档.txt",
     "21. 合并两个有序链表.md",
     "1143. 最长公共子序列.md",
@@ -204,9 +203,6 @@
     "45. 跳跃游戏-2.md",
     "153. 寻找旋转排序数组中的最小值.md",
     "33. 搜索旋转排序数组.md",
-    "35. 搜索插入位置.md",
-    "34. 在排序数组中查找元素的第一个和最后一个位置.md",
-    "74. 搜索二维矩阵.md",
     "题解模板 1.md.nssyncsc",
     "assets/Pasted image 20250401112134.png",
     "未命名.canvas",
